@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RESEZEX</title>
+  
+  <subtitle>Notime</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://resez.github.io/"/>
+  <updated>2017-09-23T08:20:07.821Z</updated>
+  <id>https://resez.github.io/</id>
+  
+  <author>
+    <name>RESEZEX</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>刘润达的模拟题</title>
+    <link href="https://resez.github.io/2017/09/23/%E5%88%98%E6%B6%A6%E8%BE%BE%E7%9A%84%E6%A8%A1%E6%8B%9F%E9%A2%98/"/>
+    <id>https://resez.github.io/2017/09/23/刘润达的模拟题/</id>
+    <published>2017-09-23T07:08:13.000Z</published>
+    <updated>2017-09-23T08:20:07.821Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;随便做？真的随便做。。。&quot;&gt;&lt;a href=&quot;#随便做？真的随便做。。。&quot; class=&quot;headerlink&quot; title=&quot;随便做？真的随便做。。。&quot;&gt;&lt;/a&gt;随便做？真的随便做。。。&lt;/h1&gt;&lt;p&gt;难度是逆序的。。。最后一道题贪心总是GG，wyy的code轻
+      
+    
+    </summary>
+    
+    
+      <category term="矩阵优化 DP 原根 并查集 贪心" scheme="https://resez.github.io/tags/%E7%9F%A9%E9%98%B5%E4%BC%98%E5%8C%96-DP-%E5%8E%9F%E6%A0%B9-%E5%B9%B6%E6%9F%A5%E9%9B%86-%E8%B4%AA%E5%BF%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WEBGL驱动的音乐展示器 - Azusa</title>
+    <link href="https://resez.github.io/2017/06/01/azusa/"/>
+    <id>https://resez.github.io/2017/06/01/azusa/</id>
+    <published>2017-06-01T02:31:29.000Z</published>
+    <updated>2017-09-23T09:13:26.646Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;懒！所以直接把 README 粘贴上来啦。&lt;br&gt;最近玩 osu 把手打断啦 qwq。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;项目 &lt;a href=&quot;https://github.com/EYHN/Azusa&quot; target=&quot;_blank&quot; 
+      
+    
+    </summary>
+    
+      <category term="发布" scheme="https://resez.github.io/categories/%E5%8F%91%E5%B8%83/"/>
+    
+    
+      <category term="技术" scheme="https://resez.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="web" scheme="https://resez.github.io/tags/web/"/>
+    
+      <category term="发布" scheme="https://resez.github.io/tags/%E5%8F%91%E5%B8%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo live2d插件 2.0 !</title>
+    <link href="https://resez.github.io/2017/05/22/live2d-plugin-2.0/"/>
+    <id>https://resez.github.io/2017/05/22/live2d-plugin-2.0/</id>
+    <published>2017-05-22T07:26:50.000Z</published>
+    <updated>2017-09-23T09:13:26.653Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;hexo live2d 插件升级 2.0 啦，新增数十个高质量模型。把你的老婆展示给别人看吧！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="项目" scheme="https://resez.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+      <category term="发布" scheme="https://resez.github.io/tags/%E5%8F%91%E5%B8%83/"/>
+    
+      <category term="Hexo" scheme="https://resez.github.io/tags/Hexo/"/>
+    
+      <category term="开源" scheme="https://resez.github.io/tags/%E5%BC%80%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何写出优雅的组件</title>
+    <link href="https://resez.github.io/2017/05/20/react-coding-standards/"/>
+    <id>https://resez.github.io/2017/05/20/react-coding-standards/</id>
+    <published>2017-05-20T10:54:10.000Z</published>
+    <updated>2017-09-23T09:13:26.656Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;个人的 &lt;code&gt;react&lt;/code&gt; 编码规范。不仅仅适用于 &lt;code&gt;react&lt;/code&gt; 适用所有需要组件化的地方，比如 &lt;code&gt;ejs&lt;/code&gt;。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="https://resez.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="https://resez.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="js" scheme="https://resez.github.io/tags/js/"/>
+    
+      <category term="react" scheme="https://resez.github.io/tags/react/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 dokku 自建 PaaS 平台</title>
+    <link href="https://resez.github.io/2017/04/13/dokku-get-start/"/>
+    <id>https://resez.github.io/2017/04/13/dokku-get-start/</id>
+    <published>2017-04-13T02:57:29.000Z</published>
+    <updated>2017-09-23T09:13:26.648Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一条命名测试，发布，部署一个全新的应用。&lt;/p&gt;
+&lt;p&gt;专心开发，省心运维。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="https://resez.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="运维" scheme="https://resez.github.io/tags/%E8%BF%90%E7%BB%B4/"/>
+    
+      <category term="教程" scheme="https://resez.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="技术" scheme="https://resez.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>js异步和网络Api发展史</title>
+    <link href="https://resez.github.io/2017/03/27/js%E5%BC%82%E6%AD%A5%E5%92%8C%E7%BD%91%E7%BB%9Capi%E5%8F%91%E5%B1%95%E5%8F%B2/"/>
+    <id>https://resez.github.io/2017/03/27/js异步和网络api发展史/</id>
+    <published>2017-03-27T11:06:50.000Z</published>
+    <updated>2017-09-23T09:13:26.651Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;从ajax到fetch，从回调到async，滑稽带你领略js异步和网络Api发展史。&lt;br&gt;仅仅是速览不会深入&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="https://resez.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="https://resez.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="web" scheme="https://resez.github.io/tags/web/"/>
+    
+      <category term="js" scheme="https://resez.github.io/tags/js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>通过css 3d transform让页面变3d</title>
+    <link href="https://resez.github.io/2017/03/26/%E9%80%9A%E8%BF%87css%203d%20transform%E8%AE%A9%E9%A1%B5%E9%9D%A2%E5%8F%983d/"/>
+    <id>https://resez.github.io/2017/03/26/通过css 3d transform让页面变3d/</id>
+    <published>2017-03-26T01:48:29.000Z</published>
+    <updated>2017-09-23T09:13:26.659Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;通过&lt;code&gt;css 3d transform&lt;/code&gt;让页面变3d。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="https://resez.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="https://resez.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="css" scheme="https://resez.github.io/tags/css/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>web动画框架的初步设计</title>
+    <link href="https://resez.github.io/2017/03/22/web%E5%8A%A8%E7%94%BB%E6%A1%86%E6%9E%B6%E7%9A%84%E5%88%9D%E6%AD%A5%E8%AE%BE%E8%AE%A1/"/>
+    <id>https://resez.github.io/2017/03/22/web动画框架的初步设计/</id>
+    <published>2017-03-22T11:38:00.000Z</published>
+    <updated>2017-09-23T09:13:26.658Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我希望有一天webApp能够达到原生应用的用户体验。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="https://resez.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="https://resez.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="开源" scheme="https://resez.github.io/tags/%E5%BC%80%E6%BA%90/"/>
+    
+      <category term="js" scheme="https://resez.github.io/tags/js/"/>
+    
+      <category term="html" scheme="https://resez.github.io/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>js获取元素绝对位置</title>
+    <link href="https://resez.github.io/2017/03/20/js%E8%8E%B7%E5%8F%96%E5%85%83%E7%B4%A0%E7%BB%9D%E5%AF%B9%E4%BD%8D%E7%BD%AE/"/>
+    <id>https://resez.github.io/2017/03/20/js获取元素绝对位置/</id>
+    <published>2017-03-20T11:30:50.000Z</published>
+    <updated>2017-09-23T09:13:26.652Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;众：哇！不会吧！博主你这都不会！&lt;/p&gt;
+&lt;p&gt;我：我…我还真的不会。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="https://resez.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="https://resez.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="js" scheme="https://resez.github.io/tags/js/"/>
+    
+      <category term="html" scheme="https://resez.github.io/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>one - hexo单页面炫酷主题</title>
+    <link href="https://resez.github.io/2017/03/18/one%E4%B8%BB%E9%A2%98/"/>
+    <id>https://resez.github.io/2017/03/18/one主题/</id>
+    <published>2017-03-18T02:12:10.000Z</published>
+    <updated>2017-09-23T09:13:26.655Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;历经一个半月one主题终于完成！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="项目" scheme="https://resez.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+      <category term="发布" scheme="https://resez.github.io/tags/%E5%8F%91%E5%B8%83/"/>
+    
+      <category term="Hexo" scheme="https://resez.github.io/tags/Hexo/"/>
+    
+      <category term="开源" scheme="https://resez.github.io/tags/%E5%BC%80%E6%BA%90/"/>
+    
+      <category term="one" scheme="https://resez.github.io/tags/one/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo的live2d插件</title>
+    <link href="https://resez.github.io/2017/01/29/hexo%E7%9A%84live2d%E6%8F%92%E4%BB%B6/"/>
+    <id>https://resez.github.io/2017/01/29/hexo的live2d插件/</id>
+    <published>2017-01-29T08:29:29.000Z</published>
+    <updated>2017-09-23T09:13:26.649Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;为你的hexo添加色气满满的live2d吧！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="项目" scheme="https://resez.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+      <category term="发布" scheme="https://resez.github.io/tags/%E5%8F%91%E5%B8%83/"/>
+    
+      <category term="Hexo" scheme="https://resez.github.io/tags/Hexo/"/>
+    
+      <category term="开源" scheme="https://resez.github.io/tags/%E5%BC%80%E6%BA%90/"/>
+    
+  </entry>
+  
+</feed>
